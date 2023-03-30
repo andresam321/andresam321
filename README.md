@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresam321&label=Profile%20views&color=0e75b6&style=flat" alt="andresam321" /> </p>
 
-- 📫 How to reach me **mercadoam510@gmail.com**
+- 📫 How to reach me **andresmercado96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
