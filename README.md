@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Andres Mercado 👋<br>I'm a passionate software developer with a background in aviation and real estate investing. My journey into tech started in 2022, driven by a desire to simplify tasks and improve efficiency. I have honed my skills in JavaScript, Python, React, Redux, HTML, and CSS through App Academy.<br><br>🚀 What I Do:<br><br>Develop full-stack applications<br>Improve user interfaces and streamline components<br>Optimize database relationships and system performance<br>💡 Current Focus:<br><br>Refining an airport plane management system to enhance operational efficiency<br>💼 Previous Experience:<br><br>Line Service Technician in the aviation industry<br>Real estate investor managing multiple tenants and achieving a six-figure income<br>👨‍👧 Personal:<br><br>Proud dad, always balancing family time with coding and learning new technologies
 
-[Contact Me] andresam321@proton.me
+- 📫 How to reach me **andresam321@proton.me**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-merc/) 
