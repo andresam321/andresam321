@@ -1,7 +1,23 @@
-# 💫 About Me:
-Hi, I'm Andres Mercado 👋<br>I’m a passionate software developer with a unique background in aviation and real estate investing. My tech journey began in 2022, fueled by a drive to solve inefficiencies and create impactful solutions. Through App Academy, I’ve mastered JavaScript, Python, React, Redux, HTML, and CSS, equipping me to build user-focused applications that streamline operations and deliver results.<br><br>🚀 What I Do:<br><br>	•	Design and develop full-stack applications that solve real-world problems and enhance user experiences. <br> •	Craft intuitive user interfaces while streamlining components for optimal performance and maintainability.<br> • Optimize database relationships and architecture to ensure seamless data flow and system scalability. <br><br>💡 Current Focus:<br><br> Enhancing an airport plane management system by refining workflows, optimizing data structures, and integrating real-time functionalities to improve operational efficiency and user experience. <br><br>💼 Previous Experience:<br><br>	•	Line Service Technician: Gained hands-on experience in the aviation industry, ensuring precise fueling operations, adhering to strict safety protocols, and supporting private aircraft logistics.<br>	•	Real Estate Investor: Successfully managed a portfolio of properties, overseeing tenant relations, property maintenance, and financial planning to achieve a six-figure income within five years.<br><br>👨‍👧 Personal:<br><br>Proud dad who thrives on balancing family time with a passion for coding and continuous learning. Dedicated to staying at the forefront of technology while cherishing meaningful moments with my loved ones.
+Hi, I'm Andres Mercado 👋<br>
+I’m a passionate **Software Engineer** with a unique aviation and real estate investing background. My tech journey began in 2022, fueled by a drive to solve inefficiencies and create impactful solutions. Through App Academy, I’ve mastered JavaScript, Python, React, Redux, HTML, and CSS, equipping me to build user-focused applications that streamline operations and deliver results.<br><br>
 
-- 📫 How to reach me **andresam321@proton.me**
+🚀 **What I Do:**<br><br>
+• Design and develop full-stack applications that solve real-world problems and enhance user experiences.<br>
+• Craft intuitive user interfaces while streamlining components for optimal performance and maintainability.<br>
+• Optimize database relationships and architecture to ensure seamless data flow and system scalability.<br><br>
+
+💡 **Current Focus:**<br><br>
+Enhancing an airport plane management system by refining workflows, optimizing data structures, and integrating real-time functionalities to improve operational efficiency and employee experience.<br><br>
+
+💼 **Previous Experience:**<br><br>
+• **Line Service Technician:** Gained hands-on experience in the aviation industry, ensuring precise fueling operations, adhering to strict safety protocols, and supporting private aircraft logistics.<br>
+• **Real Estate Investor:** Successfully managed a portfolio of properties, overseeing tenant relations, property maintenance, and financial planning to achieve a six-figure income within five years.<br><br>
+
+👨‍👧 **Personal:**<br><br>
+Proud dad who thrives on balancing family time with a passion for coding and continuous learning. Dedicated to staying at the forefront of technology while cherishing meaningful moments with my loved ones.<br><br>
+
+
+📫 **How to reach me:** andresam321@proton.me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-merc/) 
