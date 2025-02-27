@@ -1,10 +1,11 @@
 Hi, I'm Andres Mercado 👋<br>
-I’m a passionate **Software Engineer** with a unique aviation and real estate investing background. My tech journey began in 2022, fueled by a drive to solve inefficiencies and create impactful solutions. Through App Academy, I’ve mastered JavaScript, Python, React, Redux, HTML, and CSS, equipping me to build user-focused applications that streamline operations and deliver results.<br><br>
+I’m a passionate **Software Engineer** with a unique aviation and real estate investing background. My tech journey began in 2022, fueled by a drive to solve inefficiencies and create impactful solutions. Through App Academy, I’ve mastered JavaScript, Python, React, Redux, Flask, PostgreSQL, AWS, and Docker, equipping me to build user-focused applications that streamline operations and deliver results.<br><br>
 
 🚀 **What I Do:**<br><br>
 • Design and develop full-stack applications that solve real-world problems and enhance user experiences.<br>
 • Craft intuitive user interfaces while streamlining components for optimal performance and maintainability.<br>
-• Optimize database relationships and architecture to ensure seamless data flow and system scalability.<br><br>
+• Optimize database relationships and architecture to ensure seamless data flow and system scalability.<br>
+• Deploy and manage applications using **AWS, Docker, and Nginx** for high availability and scalability.<br><br>
 
 💡 **Current Focus:**<br><br>
 Integrating **QR code functionality** into an airport plane management system, allowing users to scan QR codes and auto-fill fuel request forms for faster processing. Continuously refining workflows and improving UI responsiveness to enhance operational efficiency.<br><br>
@@ -12,7 +13,7 @@ Integrating **QR code functionality** into an airport plane management system, a
 📌 **Highlighted Projects:**<br><br>
 **🛫 AeroSkyOps Aviation** – A full-stack airplane management system designed to modernize operations for small to mid-sized airports. The system digitizes manual workflows, enabling **real-time aircraft parking assignments, owner linkage, and fuel request management**. Features **QR code integration for fuel request automation, FlightAware API for real-time tracking, PostgreSQL for structured data handling, and AWS S3 for secure image storage**. Deployed using **Docker and Nginx** for scalability.<br><br>
 
-**🍽 Wuber Eats** *(App Academy Project)* – A full-stack restaurant ordering platform inspired by Uber Eats. Users can **browse restaurants, add menu items to their cart, and leave reviews**, while restaurant owners can **manage listings, update menus, and receive feedback**. Built with **Flask, PostgreSQL, Redux for state management, and Cloudinary for optimized image handling**. Developed in an **Agile environment with daily sprints, code reviews, and iterative development**.<br><br>
+**🍽 Wuber Eats** *(App Academy Project)* – A full-stack restaurant ordering platform inspired by Uber Eats. Users can **browse restaurants, add menu items to their cart, and leave reviews**, while restaurant owners can **manage listings, update menus, and receive feedback**. Developed in an **Agile environment**, where I collaborated with a team, participating in **daily sprints, stand-up meetings, and iterative development cycles**. Built with **Flask, PostgreSQL, Redux for state management, and Cloudinary for optimized image handling**. Deployed using **AWS and Docker** to ensure scalability and efficiency.<br><br>
 
 💼 **Previous Experience:**<br><br>
 • **Line Service Technician:** Gained hands-on experience in the aviation industry, ensuring precise fueling operations, adhering to strict safety protocols, and supporting private aircraft logistics.<br>
@@ -20,6 +21,7 @@ Integrating **QR code functionality** into an airport plane management system, a
 
 👨‍👧 **Personal:**<br><br>
 Proud dad who thrives on balancing family time with a passion for coding and continuous learning. Dedicated to staying at the forefront of technology while cherishing meaningful moments with my loved ones.<br><br>
+
 
 📫 **How to reach me:** andresam321@proton.me
 
