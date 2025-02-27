@@ -7,7 +7,12 @@ I’m a passionate **Software Engineer** with a unique aviation and real estate 
 • Optimize database relationships and architecture to ensure seamless data flow and system scalability.<br><br>
 
 💡 **Current Focus:**<br><br>
-Enhancing an airport plane management system by refining workflows, optimizing data structures, and integrating real-time functionalities to improve operational efficiency and employee experience.<br><br>
+Integrating **QR code functionality** into an airport plane management system, allowing users to scan QR codes and auto-fill fuel request forms for faster processing. Continuously refining workflows and improving UI responsiveness to enhance operational efficiency.<br><br>
+
+📌 **Highlighted Projects:**<br><br>
+**🛫 AeroSkyOps Aviation** – A full-stack airplane management system designed to modernize operations for small to mid-sized airports. The system digitizes manual workflows, enabling **real-time aircraft parking assignments, owner linkage, and fuel request management**. Features **QR code integration for fuel request automation, FlightAware API for real-time tracking, PostgreSQL for structured data handling, and AWS S3 for secure image storage**. Deployed using **Docker and Nginx** for scalability.<br><br>
+
+**🍽 Wuber Eats** *(App Academy Project)* – A full-stack restaurant ordering platform inspired by Uber Eats. Users can **browse restaurants, add menu items to their cart, and leave reviews**, while restaurant owners can **manage listings, update menus, and receive feedback**. Built with **Flask, PostgreSQL, Redux for state management, and Cloudinary for optimized image handling**. Developed in an **Agile environment with daily sprints, code reviews, and iterative development**.<br><br>
 
 💼 **Previous Experience:**<br><br>
 • **Line Service Technician:** Gained hands-on experience in the aviation industry, ensuring precise fueling operations, adhering to strict safety protocols, and supporting private aircraft logistics.<br>
@@ -15,7 +20,6 @@ Enhancing an airport plane management system by refining workflows, optimizing d
 
 👨‍👧 **Personal:**<br><br>
 Proud dad who thrives on balancing family time with a passion for coding and continuous learning. Dedicated to staying at the forefront of technology while cherishing meaningful moments with my loved ones.<br><br>
-
 
 📫 **How to reach me:** andresam321@proton.me
 
