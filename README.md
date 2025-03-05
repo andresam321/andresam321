@@ -19,12 +19,15 @@ Integrating **QR code functionality** into an airport plane management system, a
 - **Fuel Request Management** – Allows employees to submit, track, and update fuel orders via an intuitive UI.<br>  
 - **Fuel Tank Monitoring System** – Displays fuel levels with interactive gauges, optimizing fuel management.<br>  
 - **Aircraft Parking Assignment & History** – Enables employees to dynamically assign aircraft parking spots and track historical assignments.<br>  
-- **Database Optimization** – Migrated from MongoDB to PostgreSQL with SQLAlchemy for structured data handling.<br>  
-- **Image Storage & Deployment** – Uses AWS S3 for secure image storage, Docker for containerization, and Nginx for scalable deployment.<br><br>  
+- **Owner Linkage System** – Links aircraft to their respective owners, ensuring accurate tracking and streamlined management.<br>  
+- **Database Optimization** – Migrated from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling.<br>  
+- **Scalable Deployment** – Utilizes **Docker for containerization** and **Nginx for secure, high-availability deployment** on AWS EC2.<br>  
+- **Image Storage** – Uses AWS S3 for secure image storage and retrieval.<br><br>  
 
 ### **🛠️ Upcoming Features:**<br>
 - **QR Code System** – Pilots will be able to scan a QR code to quickly access and submit fuel request forms.<br>  
-- **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<be>  
+- **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<br>  
+
 
 📌 **App Academy Project:**<br><br>
 
