@@ -26,6 +26,7 @@ Integrating **QR code functionality** into an airport plane management system, a
 - **QR Code System** – Pilots will be able to scan a QR code to quickly access and submit fuel request forms.<br>  
 - **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<be>  
 
+📌 **App Academy Project:**<br><be>
 
 **🍽 Wuber Eats** *(App Academy Project)* – A full-stack restaurant ordering platform inspired by Uber Eats. Users can **browse restaurants, add menu items to their cart, and leave reviews**, while restaurant owners can **manage listings, update menus, and receive feedback**. Developed in an **Agile environment**, where I collaborated with a team, participating in **daily sprints, stand-up meetings, and iterative development cycles**. Built with **Flask, PostgreSQL, Redux for state management, and Cloudinary for optimized image handling**. Deployed using **AWS and Docker** to ensure scalability and efficiency.<br><br>
 
