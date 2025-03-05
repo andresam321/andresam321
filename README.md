@@ -11,7 +11,21 @@ I’m a passionate **Software Engineer** with a unique aviation and real estate 
 Integrating **QR code functionality** into an airport plane management system, allowing users to scan QR codes and auto-fill fuel request forms for faster processing. Continuously refining workflows and improving UI responsiveness to enhance operational efficiency.<br><br>
 
 📌 **Highlighted Projects:**<br><br>
-**🛫 AeroSkyOps Aviation** – A full-stack airplane management system designed to modernize operations for small to mid-sized airports. The system digitizes manual workflows, enabling **real-time aircraft parking assignments, owner linkage, and fuel request management**. Features **QR code integration for fuel request automation, FlightAware API for real-time tracking, PostgreSQL for structured data handling, and AWS S3 for secure image storage**. Deployed using **Docker and Nginx** for scalability.<br><br>
+
+**🛫 AeroSkyOps Aviation** – A **full-stack airplane management system** designed to modernize operations for small to mid-sized airports. The system replaces manual workflows, enabling **dynamic aircraft parking assignments**, owner linkage, and fuel request management.<br><br>  
+
+### **✅ Implemented Features:**<br>
+- **FlightAware AeroAPI & Weather API** – Provides near-live flight tracking and real-time airport weather conditions.<br>  
+- **Fuel Request Management** – Allows employees to submit, track, and update fuel orders via an intuitive UI.<br>  
+- **Fuel Tank Monitoring System** – Displays fuel levels with interactive gauges, optimizing fuel management.<br>  
+- **Aircraft Parking Assignment & History** – Enables employees to dynamically assign aircraft parking spots and track historical assignments.<br>  
+- **Database Optimization** – Migrated from MongoDB to PostgreSQL with SQLAlchemy for structured data handling.<br>  
+- **Image Storage & Deployment** – Uses AWS S3 for secure image storage, Docker for containerization, and Nginx for scalable deployment.<br><br>  
+
+### **🛠️ Upcoming Features:**<br>
+- **QR Code System** – Pilots will be able to scan a QR code to quickly access and submit fuel request forms.<br>  
+- **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<be>  
+
 
 **🍽 Wuber Eats** *(App Academy Project)* – A full-stack restaurant ordering platform inspired by Uber Eats. Users can **browse restaurants, add menu items to their cart, and leave reviews**, while restaurant owners can **manage listings, update menus, and receive feedback**. Developed in an **Agile environment**, where I collaborated with a team, participating in **daily sprints, stand-up meetings, and iterative development cycles**. Built with **Flask, PostgreSQL, Redux for state management, and Cloudinary for optimized image handling**. Deployed using **AWS and Docker** to ensure scalability and efficiency.<br><br>
 
