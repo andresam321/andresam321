@@ -12,7 +12,7 @@ Integrating **QR code functionality** into an airport plane management system, a
 
 📌 **Highlighted Projects:**<br><br>
 
-**🛫 AeroSkyOps Aviation** – A **full-stack airplane management system** designed to modernize operations for small to mid-sized airports. The system replaces manual workflows, enabling **dynamic aircraft parking assignments**, owner linkage, and fuel request management.<br><br>  
+**🛫 Rabbit Aviation (AeroSkyOps)** – A **full-stack airplane management system** designed to modernize operations for small to mid-sized airports. The system replaces manual workflows, enabling **dynamic aircraft parking assignments**, owner linkage, and fuel request management.<br><br>  
 
 ### **✅ Implemented Features:**<br>
 - **FlightAware AeroAPI & Weather API** – Provides near-live flight tracking and real-time airport weather conditions.<br>  
