@@ -12,21 +12,25 @@ Integrating **QR code functionality** into an airport plane management system, a
 
 📌 **Highlighted Projects:**<br><br>
 
-**🛫 Rabbit Aviation (AeroSkyOps)** – A **full-stack airplane management system** designed to modernize operations for small to mid-sized airports. The system replaces manual workflows, enabling **dynamic aircraft parking assignments**, owner linkage, and fuel request management.<br><br>  
+🛫 Rabbit Aviation (AeroSkyOps) – While working as a line service technician at Rabbit Aviation, I identified inefficiencies in how aircraft assignments, fuel requests, and owner information were managed. Recognizing an opportunity to improve operational efficiency, I designed and developed AeroSkyOps, a full-stack aviation management system to replace outdated manual workflows with a dynamic web application, streamlining airport operations.<br><br>
 
-### **✅ Implemented Features:**<br>
-- **FlightAware AeroAPI & Weather API** – Provides near-live flight tracking and real-time airport weather conditions.<br>  
-- **Fuel Request Management** – Allows employees to submit, track, and update fuel orders via an intuitive UI.<br>  
-- **Fuel Tank Monitoring System** – Displays fuel levels with interactive gauges, optimizing fuel management.<br>  
-- **Aircraft Parking Assignment & History** – Enables employees to dynamically assign aircraft parking spots and track historical assignments.<br>  
-- **Owner Linkage System** – Links aircraft to their respective owners, ensuring accurate tracking and streamlined management.<br>  
-- **Database Optimization** – Migrated from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling.<br>  
-- **Scalable Deployment** – Utilizes **Docker for containerization** and **Nginx for secure, high-availability deployment** on AWS EC2.<br>  
-- **Image Storage** – Uses AWS S3 for secure image storage and retrieval.<br><br>  
+✅ Implemented Features:<br>
+• **FlightAware AeroAPI & Weather API** – Provides near-live flight tracking and real-time airport weather conditions.<br>
+• **Fuel Request Management** – Developed an interface for employees to submit, track, and manage fuel orders seamlessly.<br>
+• **Fuel Tank Monitoring System** – Displays fuel levels with interactive gauges, optimizing fuel management.<br>
+• **Aircraft Parking Assignment & History** – Built a system allowing employees to assign, update, and reference past parking assignments.<br>
+• **Owner Linkage System** – Links aircraft to their respective owners, ensuring accurate tracking and streamlined management.<br>
+• **Database Optimization** – Migrated from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling.<br>
+• **Scalable Deployment** – Utilizes Docker for containerization and Nginx for secure, high-availability deployment on AWS EC2.<br>
+• **Image Storage** – Uses AWS S3 for secure image storage and retrieval.<br><br>
 
-### **🛠️ Upcoming Features:**<br>
-- **QR Code System** – Pilots will be able to scan a QR code to quickly access and submit fuel request forms.<br>  
-- **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<br>  
+🛠️ Upcoming Enhancements:<br>
+• **QR Code System** – Pilots will be able to scan QR codes to quickly access and submit fuel request forms.<br>
+• **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<br><br>
+
+📚 **Break in Between for App Academy:**<br>
+• **App Academy Software Engineering Program (Oct 2023 – June 2024)** – Completed an intensive 8-month curriculum focused on full-stack development, refining my engineering skills and strengthening my ability to build scalable applications.<br><br>
+Over the past two years, I have continuously refined AeroSkyOps, adding new features and improving its architecture to enhance efficiency and modernize airport operations.<be>
 
 
 📌 **App Academy Project:**<br><br>
