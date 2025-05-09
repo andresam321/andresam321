@@ -1,5 +1,7 @@
-Hi, I'm Andres Mercado 👋<br>
-I’m a passionate **Software Engineer** with a unique aviation and real estate investing background. My tech journey began in 2022, fueled by a drive to solve inefficiencies and create impactful solutions. Through App Academy, I’ve mastered JavaScript, Python, React, Redux, Flask, PostgreSQL, AWS, and Docker, equipping me to build user-focused applications that streamline operations and deliver results.<br><br>
+👋 Hi, I'm Andres Mercado <br>
+Software Engineer | Backend • Full Stack | Python, Flask, React, AWS
+
+I'm a software engineer with a background in aviation and real estate investing. My journey into tech began in 2022 when I identified real-world inefficiencies and decided to build solutions. Since then, I’ve developed full-stack systems using Python, Flask, PostgreSQL, Docker, and AWS, and completed App Academy’s intensive engineering program to sharpen my skills.<br><br>
 
 🚀 **What I Do:**<br><br>
 • Design and develop full-stack applications that solve real-world problems and enhance user experiences.<br>
