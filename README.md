@@ -1,53 +1,31 @@
-👋 Hi, I'm Andres Mercado <br>
-Software Engineer | Backend • Full Stack | Python, Flask, React, AWS
+👋 Hi, I'm Andres Mercado<br>
+Software Engineer | Backend • Full Stack<br>
+Python, Flask, React, PostgreSQL, AWS, Docker<br><br>
 
-I'm a software engineer with a background in aviation and real estate investing. My journey into tech began in 2022 when I identified real-world inefficiencies and decided to build solutions. Since then, I’ve developed full-stack systems using Python, Flask, PostgreSQL, Docker, and AWS, and completed App Academy’s intensive engineering program to sharpen my skills.<br><br>
+I’m a software engineer with a background in aviation and real estate investing. My journey into tech began in 2022 when I saw inefficiencies at work and built my first full-stack application to solve them. Since then, I’ve been focused on creating real-world tools using Python, Flask, PostgreSQL, and AWS.<br><br>
 
-🚀 **What I Do:**<br><br>
-• Design and develop full-stack applications that solve real-world problems and enhance user experiences.<br>
-• Craft intuitive user interfaces while streamlining components for optimal performance and maintainability.<br>
-• Optimize database relationships and architecture to ensure seamless data flow and system scalability.<br>
-• Deploy and manage applications using **AWS, Docker, and Nginx** for high availability and scalability.<br><br>
+🚀 What I Build:<br>
+• Full-stack apps that streamline real-world processes<br>
+• Backend systems with secure APIs and scalable database design<br>
+• Frontends using React + Redux for fast, intuitive UX<br>
+• Containerized deployments with Docker and Nginx on AWS EC2<br><br>
 
-💡 **Current Focus:**<br><br>
-Integrating **QR code functionality** into an airport plane management system, allowing users to scan QR codes and auto-fill fuel request forms for faster processing. Continuously refining workflows and improving UI responsiveness to enhance operational efficiency.<br><br>
+💡 Current Project:<br>
+Hey-Compa – an OCR + AI-powered assistant that helps users (especially elderly and non-English speakers) understand and manage their bills. Built with Flask, PostgreSQL, PaddleOCR, and React.<br><br>
 
-📌 **Highlighted Projects:**<br><br>
+🛫 Previous Project:<br>
+AeroSkyOps – a full-stack aviation management platform I designed and built to support internal airport operations. Project is feature-complete and no longer in active development.<br><br>
 
-🛫 Rabbit Aviation (AeroSkyOps) – While working as a line service technician at Rabbit Aviation, I identified inefficiencies in how aircraft assignments, fuel requests, and owner information were managed. Recognizing an opportunity to improve operational efficiency, I designed and developed AeroSkyOps, a full-stack aviation management system to replace outdated manual workflows with a dynamic web application, streamlining airport operations.<br><br>
+📚 App Academy Grad (2024):<br>
+Completed an intensive 8-month software engineering program, learning full-stack principles, Agile workflows, and collaborative development.<br><br>
 
-✅ Implemented Features:<br>
-• **FlightAware AeroAPI & Weather API** – Provides near-live flight tracking and real-time airport weather conditions.<br>
-• **Fuel Request Management** – Developed an interface for employees to submit, track, and manage fuel orders seamlessly.<br>
-• **Fuel Tank Monitoring System** – Displays fuel levels with interactive gauges, optimizing fuel management.<br>
-• **Aircraft Parking Assignment & History** – Built a system allowing employees to assign, update, and reference past parking assignments.<br>
-• **Owner Linkage System** – Links aircraft to their respective owners, ensuring accurate tracking and streamlined management.<br>
-• **Database Optimization** – Migrated from MongoDB to PostgreSQL, leveraging SQLAlchemy for structured data handling.<br>
-• **Scalable Deployment** – Utilizes Docker for containerization and Nginx for secure, high-availability deployment on AWS EC2.<br>
-• **Image Storage** – Uses AWS S3 for secure image storage and retrieval.<br><br>
+💼 Also:<br>
+• Real estate investor who grew a portfolio and managed tenant ops<br>
+• Former line service technician with 6+ years of aviation experience<br><br>
 
-🛠️ Upcoming Enhancements:<br>
-• **QR Code System** – Pilots will be able to scan QR codes to quickly access and submit fuel request forms.<br>
-• **Enhanced Role-Based Access Control (RBAC)** – Implementing user roles for better security and access management.<br><br>
+👨‍👧 Dad. Builder. Learner. Always growing as a developer and as a person.<br><br>
 
-📚 **Break in Between for App Academy:**<br>
-• **App Academy Software Engineering Program (Oct 2023 – June 2024)** – Completed an intensive 8-month curriculum focused on full-stack development, refining my engineering skills and strengthening my ability to build scalable applications.<br><br>
-Over the past two years, I have continuously refined AeroSkyOps, adding new features and improving its architecture to enhance efficiency and modernize airport operations.<be>
-
-
-📌 **App Academy Project:**<br><br>
-
-**🍽 Wuber Eats** *(App Academy Project)* – A full-stack restaurant ordering platform inspired by Uber Eats. Users can **browse restaurants, add menu items to their cart, and leave reviews**, while restaurant owners can **manage listings, update menus, and receive feedback**. Developed in an **Agile environment**, where I collaborated with a team, participating in **daily sprints, stand-up meetings, and iterative development cycles**. Built with **Flask, PostgreSQL, Redux for state management, and Cloudinary for optimized image handling**. Deployed using **AWS and Docker** to ensure scalability and efficiency.<br><br>
-
-💼 **Previous Experience:**<br><br>
-• **Line Service Technician:** Gained hands-on experience in the aviation industry, ensuring precise fueling operations, adhering to strict safety protocols, and supporting private aircraft logistics.<br>
-• **Real Estate Investor:** Successfully managed a portfolio of properties, overseeing tenant relations, property maintenance, and financial planning to achieve a six-figure income within five years.<br><br>
-
-👨‍👧 **Personal:**<br><br>
-Proud dad who thrives on balancing family time with a passion for coding and continuous learning. Dedicated to staying at the forefront of technology while cherishing meaningful moments with my loved ones.<br><br>
-
-
-📫 **How to reach me:** andresam321@proton.me
+📫 Let’s connect: andresam321@proton.me | Portfolio: https://andresam.netlify.app/  | LinkedIn: https://www.linkedin.com/in/andres-merc/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-merc/) 
