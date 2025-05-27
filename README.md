@@ -11,7 +11,7 @@ I’m a software engineer with a background in aviation and real estate investin
 • Containerized deployments with Docker and Nginx on AWS EC2<br><br>
 
 💡 Current Project:<br>
-Hey-Compa – an OCR + AI-powered assistant that helps users (especially elderly and non-English speakers) understand and manage their bills. Built with Flask, PostgreSQL, PaddleOCR, and React.<br><br>
+[Hey-Compa](https://github.com/andresam321/Hey-Compa)** – a backend-first AI assistant that helps underserved users upload bills, extract key info using OCR, and get step-by-step payment instructions powered by OpenAI.<br><beBuilt with **Flask, PostgreSQL, PaddleOCR, Docker, and React**.  
 
 🛫 Previous Project:<br>
 AeroSkyOps – a full-stack aviation management platform I designed and built to support internal airport operations. Project is feature-complete and no longer in active development.<br><br>
