@@ -1,31 +1,40 @@
-👋 Hi, I'm Andres Mercado<br>
-Software Engineer | Backend • Full Stack<br>
-Python, Flask, React, PostgreSQL, AWS, Docker<br><br>
+👋 Hi, I’m Andres Mercado  
+Software Engineer | Backend-Focused Full Stack  
+Python, Flask, FastAPI, React, PostgreSQL, AWS, Docker  
 
-I’m a software engineer with a background in aviation and real estate investing. My journey into tech began in 2022 when I saw inefficiencies at work and built my first full-stack application to solve them. Since then, I’ve been focused on creating real-world tools using Python, Flask, PostgreSQL, and AWS.<br><br>
+I’m a software engineer with a background in aviation and real estate investing. My journey into tech began in 2022 after identifying operational inefficiencies at work and building my first full-stack application to solve them. Since then, I’ve focused on designing and building real-world systems with an emphasis on backend architecture, reliability, and scalability.
 
-🚀 What I Build:<br>
-• Full-stack apps that streamline real-world processes<br>
-• Backend systems with secure APIs and scalable database design<br>
-• Frontends using React + Redux for fast, intuitive UX<br>
-• Containerized deployments with Docker and Nginx on AWS EC2<br><br>
+🚀 What I Build:
+• Backend systems with clean, secure APIs and scalable database design  
+• Async and job-based pipelines for real-world workflows  
+• Full-stack applications using React + Redux where UX matters  
+• Containerized services deployed with Docker, Nginx, and cloud infrastructure  
 
-💡 Current Project:<br>
-[Hey-Compa](https://github.com/andresam321/Hey-Compa)** – a backend-first AI assistant that helps underserved users upload bills, extract key info using OCR, and get step-by-step payment instructions powered by OpenAI.<br><be> Built with **Flask, PostgreSQL, PaddleOCR, Docker, and React**.  
+💡 Current Project:
+**Propia** – a backend-first platform for landlords that processes lease documents using GPU-accelerated OCR, async pipelines, and section-aware document chunking to generate structured data and semantic search.  
+Built with **FastAPI, PostgreSQL (async), PaddleOCR, Docker, and AWS S3**.  
+🔒 *Repository is private — happy to share access upon request.*
 
-🛫 Previous Project:<br>
-AeroSkyOps – a full-stack aviation management platform I designed and built to support internal airport operations. Project is feature-complete and no longer in active development.<br><br>
+🧠 Previous Projects:
+**Hey-Compa** – an AI-assisted backend service that helps underserved users upload bills, extract key details via OCR, and receive step-by-step payment instructions powered by OpenAI.  
+Built with **Flask, PostgreSQL, PaddleOCR, Docker, and React**.
 
-📚 App Academy Grad (2024):<br>
-Completed an intensive 8-month software engineering program, learning full-stack principles, Agile workflows, and collaborative development.<br><br>
+**AeroSkyOps** – a full-stack aviation operations platform I independently designed and built to support internal airport workflows. Feature-complete and no longer in active development.
 
-💼 Also:<br>
-• Real estate investor who grew a portfolio and managed tenant ops<br>
-• Former line service technician with 6+ years of aviation experience<br><br>
+📚 App Academy Graduate (2024)  
+Completed an intensive 8-month software engineering program focused on full-stack development, Agile workflows, and collaborative engineering.
 
-👨‍👧 Dad. Builder. Learner. Always growing as a developer and as a person.<br><br>
+💼 Also:
+• Real estate investor managing tenant operations and long-term assets  
+• Former line service technician with hands-on operational experience in aviation  
 
-📫 Let’s connect: andresam321@proton.me | Portfolio: https://andresam.netlify.app/  | LinkedIn: https://www.linkedin.com/in/andres-merc/
+👨‍👧 Dad. Builder. Lifelong learner. Focused on creating systems that solve real problems.
+
+📫 Let’s connect:  
+📧 andresam321@proton.me  
+🌐 Portfolio: https://andresam.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/andres-merc/  
+🐙 GitHub: https://github.com/andresam321
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-merc/) 
