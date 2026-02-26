@@ -26,7 +26,7 @@ Backend-first document ingestion system for structured lease analysis.
 • GPU-backed OCR workers for document processing  
 • Async ingestion pipelines with background job workflows  
 • State-aware lease chunking and embedding-based semantic retrieval  
-• PostgreSQL + pgvector for structured storage and search  
+• PostgreSQL-stored vector embeddings for similarity-based clause search
 
 Built with **FastAPI, PostgreSQL (async), PaddleOCR, Docker, AWS S3**
 
